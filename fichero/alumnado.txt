@@ -1,0 +1,6 @@
+123456Q|Pepe Perez|pepe@pepon.com|pepe12345|castellano, ingles|modular|php|2018-10-18|18b9b8803c0bc5d3ff4e55d02d73a33a.jpg
+
+987655678E|Ana Anaya|ana@anaya.es|ana12345|castellano, ingles, frances|completa|java|2018-10-15|86ac50ab048bda898bee5a2970a02f5e.jpg
+
+876543456Q|Link|link@zelda.com|hyrule1234|castellano, ingles, frances, chino|completa|c#|2018-10-25|71ed6310fce4884f6d025ed74a9b2609.jpg
+5555|pepep|pepe@peppe.com|ae221e8aba323b11b3a3bdd4bb7f24a3|castellano, ingles|modular|php|2019-10-17|49af18b937a8ae924c6c91c73632385f.jpg
